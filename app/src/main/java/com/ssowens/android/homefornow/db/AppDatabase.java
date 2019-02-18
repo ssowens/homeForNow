@@ -6,6 +6,8 @@ import android.arch.persistence.room.RoomDatabase;
 import android.content.Context;
 
 import com.ssowens.android.homefornow.R;
+import com.ssowens.android.homefornow.db.dao.FavoriteDao;
+import com.ssowens.android.homefornow.db.entity.Favorite;
 
 import timber.log.Timber;
 

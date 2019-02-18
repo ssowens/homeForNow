@@ -6,7 +6,7 @@ import android.arch.lifecycle.LiveData;
 import android.support.annotation.NonNull;
 
 import com.ssowens.android.homefornow.db.AppDatabase;
-import com.ssowens.android.homefornow.db.Favorite;
+import com.ssowens.android.homefornow.db.entity.Favorite;
 
 import java.util.List;
 

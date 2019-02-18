@@ -6,7 +6,7 @@ import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
 import com.ssowens.android.homefornow.databinding.FavoritesCardViewItemBinding;
-import com.ssowens.android.homefornow.db.Favorite;
+import com.ssowens.android.homefornow.db.entity.Favorite;
 
 import java.util.List;
 
