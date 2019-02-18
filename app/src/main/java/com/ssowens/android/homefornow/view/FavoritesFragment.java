@@ -24,7 +24,7 @@ import android.widget.Toast;
 import com.ssowens.android.homefornow.R;
 import com.ssowens.android.homefornow.databinding.FragmentFavoriteHotelsBinding;
 import com.ssowens.android.homefornow.db.AppDatabase;
-import com.ssowens.android.homefornow.db.Favorite;
+import com.ssowens.android.homefornow.db.entity.Favorite;
 import com.ssowens.android.homefornow.viewModels.HotelDetailViewModel;
 
 import java.util.Collections;

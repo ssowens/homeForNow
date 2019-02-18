@@ -36,7 +36,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import com.ssowens.android.homefornow.R;
 import com.ssowens.android.homefornow.databinding.FragmentHotelDetailBinding;
 import com.ssowens.android.homefornow.db.AppDatabase;
-import com.ssowens.android.homefornow.db.Favorite;
+import com.ssowens.android.homefornow.db.entity.Favorite;
 import com.ssowens.android.homefornow.listeners.HotelDetailListener;
 import com.ssowens.android.homefornow.listeners.PhotoByIdListener;
 import com.ssowens.android.homefornow.models.HotelDetailData;

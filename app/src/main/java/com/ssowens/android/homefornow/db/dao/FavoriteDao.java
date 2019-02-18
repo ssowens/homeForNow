@@ -1,4 +1,4 @@
-package com.ssowens.android.homefornow.db;
+package com.ssowens.android.homefornow.db.dao;
 
 import android.arch.lifecycle.LiveData;
 import android.arch.persistence.room.Dao;
@@ -7,6 +7,8 @@ import android.arch.persistence.room.Insert;
 import android.arch.persistence.room.OnConflictStrategy;
 import android.arch.persistence.room.Query;
 import android.arch.persistence.room.Update;
+
+import com.ssowens.android.homefornow.db.entity.Favorite;
 
 import java.util.List;
 

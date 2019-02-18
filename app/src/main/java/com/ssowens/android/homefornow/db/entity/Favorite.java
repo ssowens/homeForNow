@@ -1,4 +1,4 @@
-package com.ssowens.android.homefornow.db;
+package com.ssowens.android.homefornow.db.entity;
 
 import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.Ignore;
